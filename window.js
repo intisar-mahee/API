@@ -1,6 +1,6 @@
 var name = "kuddus";
 function add (num1, num2){
-    window.result = num1 + num2;
+    window. result = num1 + num2;
     console.log('name outside', name);
     function double(num){
         return num*2;
